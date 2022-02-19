@@ -1,0 +1,136 @@
+{
+  "basic": {
+    "ja": {
+      "name": {
+        "kanji": "辻永 泰輔",
+        "kana": "ツジナガ タイスケ"
+      },
+      "birthday": {
+        "year": "2002",
+        "month": "1",
+        "day": "29"
+      },
+      "from": {
+        "country": "日本",
+        "perfectures": "北海道",
+        "city": "中富良野町"
+      },
+      "highschool": "富良野緑蜂高校",
+      "university": {
+        "name": "北海道情報大学",
+        "faculty": "情報メディア学部",
+        "department": "情報メディア学科",
+        "major": "メディアテクノロジー専攻",
+        "cource": "インターネットセキュリティコース",
+        "lab": {
+          "name": "湯村研究室",
+          "field": "Cyber-Physical-Human Interaction"
+        }
+      }
+    },
+    "en": {
+      "name": "Taisuke Tsujinaga",
+      "birthday": {
+        "year": "2002",
+        "month": "January",
+        "day": "29"
+      },
+      "from": {
+        "country": "Japan",
+        "perfectures": "Hokkaido",
+        "city": "Nakafurano"
+      },
+      "highschool": "Furano Ryokuhou",
+      "university": {
+        "name": "Hokkaido Information University",
+        "faculty": "Information Media",
+        "department": "Information Media",
+        "major": "Media Technology",
+        "cource": "Internet Security",
+        "laboratory": {
+          "name": "Yumura Laboratory",
+          "field": "Cyber-Physical-Human Interaction"
+        }
+      }
+    }
+  },
+  "comunities": {
+    "ja": [
+      [
+        "SecHack365'21",
+        "思索駆動コース"
+      ],
+      [
+        "一般社団法人 LOCAL",
+        "学生部"
+      ]
+    ],
+    "en": [
+      [
+        "SecHack365'21",
+        "Contemplation Drive Cource"
+      ],
+      [
+        "General Incorporated Association LOCAL",
+        "Students"
+      ]
+    ]
+  },
+  "acounts": {
+    "twitter": [
+      {
+        "username": "@Nescal29",
+        "link": "https://twitter.com/Nescal29"
+      }
+    ],
+    "github": [
+      {
+        "username": "nescal29",
+        "link": "https://github.com/nescal29"
+      }
+    ],
+    "qiita": [ 
+      {
+        "username": "nescal",
+        "link": "https://qiita.com/nescal"
+      }
+    ]
+  },
+  "field": {
+    "ja": [
+        "Webバックエンド",
+        "ユーザブルセキュリティ",
+        "心のセキュリティ"
+      ]
+    },
+    "en": [
+        "Web Backend",
+        "Usable Security",
+        "Security of Mental"
+      ]
+    }
+  },
+  "career": {
+    "ja": {
+      "name": [
+        "ビットスター株式会社",
+        "アルバイト"
+      ],
+      "period": {
+        "start": "2021年7月",
+        "end": ""
+      }
+    },
+    "en": {
+      "name": [
+        "bitstar, Ltd.",
+        "Part-Time Job"
+      ],
+      "period": {
+        "start": "July, 2021",
+        "end": ""
+      }
+    }
+  }
+}
+
